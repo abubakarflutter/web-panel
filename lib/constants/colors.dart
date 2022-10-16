@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 const kAppWhiteBackgroundColor = Colors.white;
-const kTextBlackColor = Colors.black;
+const kTextBlackColor = Colors.black54;
 const kAppPrimaryColor = Colors.blue;
 
 ///------- Custom App Colors
